@@ -1,0 +1,5 @@
+﻿  BlackJack0.2.cpp
+C:\Users\SAM-GAME-PC\source\repos\BlackJack0.2\BlackJack0.2\BlackJack0.2.cpp(259,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\SAM-GAME-PC\source\repos\BlackJack0.2\BlackJack0.2\BlackJack0.2.cpp(273,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\SAM-GAME-PC\source\repos\BlackJack0.2\BlackJack0.2\BlackJack0.2.cpp(442,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  BlackJack0.2.vcxproj -> C:\Users\SAM-GAME-PC\source\repos\BlackJack0.2\Debug\BlackJack0.2.exe
